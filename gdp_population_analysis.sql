@@ -1,3 +1,4 @@
+# Taking countries which fulfill these below requirements
 WITH Population_GDP_of_Europe_and_Asia AS (
 SELECT 
   PO.Country,
