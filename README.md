@@ -2,7 +2,7 @@
 Dataset: World_growth
 
 Bar chart of Population growth 2020-2025:
-<img width="1278" height="864" alt="Sheet 1" src="https://github.com/user-attachments/assets/9e3c061f-5fc3-46ad-9090-6d65fd7a4f86" />
+<img width="1782" height="810" alt="Population Growth 2020-2025" src="https://github.com/user-attachments/assets/a65e8b32-100b-4074-9b61-3aa32b90cdeb" />
 
 
 Motion Scatter Plot of Economic growth and Population dynamics:
